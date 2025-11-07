@@ -69,12 +69,12 @@ The system implements a complete 7×7 rule matrix (49 rules total) that maps com
 
 #### Input/Output Settings
 <div align="center">
-  <img src="images/matlab_io.png" alt="Input Output Settings MATLAB">
+  <img width="600px" src="images/matlab_io.png" alt="Input Output Settings MATLAB">
 </div>
 
 #### Fuzzy Rules Configuration
 <div align="center">
-  <img src="images/matlab_rules.png" alt="Fuzzy Rules Configuration MATLAB">
+  <img width="600px" src="images/matlab_rules.png" alt="Fuzzy Rules Configuration MATLAB">
 </div>
 
 
@@ -116,12 +116,12 @@ The fuzzy PD controller provides several advantages over conventional PD control
 
 #### Part 1 Solution Scheme
 <div align="center">
-  <img src="images/shema_part1.png" alt="Solution Scheme Part 1">
+  <img width="600px" src="images/shema_part1.png" alt="Solution Scheme Part 1">
 </div>
 
 #### Part 2 Solution Scheme
 <div align="center">
-  <img src="images/shema_part2.png" alt="Solution Scheme Part 2">
+  <img width="600px" src="images/shema_part2.png" alt="Solution Scheme Part 2">
 </div>
 
 ### Signal Results
