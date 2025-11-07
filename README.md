@@ -33,8 +33,6 @@ This project implements a Fuzzy Logic-based Proportional-Derivative (PD) Control
 - Membership Functions: 7 triangular functions
 - Linguistic Terms: NB, NM, NS, ZE, PS, PM, PB
 
-
-
 ## Implementation Details
 
 ### Membership Functions
