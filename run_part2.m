@@ -17,19 +17,19 @@ fprintf('FIS loaded successfully: %s\n\n', fis.Name);
 simulation_time = 20; % seconds
 
 %% Run Simulink Model
-fprintf('Opening and running fuzzyPDdeo2.slx...\n');
+fprintf('Opening and running fuzzyPDpart2.slx...\n');
 
 try
     % Open the Simulink model
-    open_system('fuzzyPDdeo2');
+    open_system('fuzzyPDpart2');
     
     % Configure simulation parameters
-    set_param('fuzzyPDdeo2', 'StopTime', num2str(simulation_time));
+    set_param('fuzzyPDpart2', 'StopTime', num2str(simulation_time));
     
     % Run the simulation
     fprintf('Simulation started (%.1f seconds)...\n', simulation_time);
-    simout = sim('fuzzyPDdeo2');
-    
+    simout = sim('fuzzyPDpart2');
+
     fprintf('Simulation completed successfully!\n\n');
     
     fprintf('==================================================\n');
