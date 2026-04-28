@@ -165,3 +165,11 @@ The fuzzy PD controller provides several advantages over conventional PD control
     </tr>
   </table>
 </div>
+
+### Analysis of the Results
+The controller demonstrates:
+
+- Fast settling time with minimal overshoot
+- Stable response across different input conditions
+- Smooth control signal without abrupt transitions
+- Improved robustness compared to conventional PD control
